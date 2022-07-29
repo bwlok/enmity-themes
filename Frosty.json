@@ -23,7 +23,7 @@
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#08fefe",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
@@ -31,15 +31,15 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#08fefe",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#08fefe",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#08fefe",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
