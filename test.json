@@ -47,7 +47,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000",
+      "#4B3031",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
@@ -150,6 +150,6 @@
     "PRIMARY_DARK_900": "#000000"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#000000"
+    "CHAT_GREY": "#4B3031"
   }
 }
